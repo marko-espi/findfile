@@ -1,5 +1,5 @@
 # Search File
-This is a small go module that find a file based on the given extesion and return the number of matches or error if it finds one.
+This is a small go package that find a file based on the given extesion and return the number of matches or error if it finds one.
 
 ## How to use
 Simple example on how to use the package
